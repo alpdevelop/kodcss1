@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#listMain {
+  list-style-position: inside;
+}
+
+.header {
+  color: indianred;
+}
+#container {
+  margin: 5px;
+}
+
+.pic {
+  width: 600px;
+  height: 600px;
+}
+#mainp {
+  color: orange;
+}
+
+.aboutp {
+  text-align: justify;
+}
+.abouth {
+  color: blueviolet;
+}
+
+h2 {
+  color: orange;
+}
